@@ -7,3 +7,13 @@
 
 
 <p>I recommend getting to the botttom of the issue before going any further. Always be eithic about yourr decisions.</p>
+
+As a Cybersecurity anaylyst, 
+What are your strengths (ones you currently have or plan to develop)?
+I have active experience in Troubleshooting computers, 
+
+What are your values?
+
+What interests you most about a career in cybersecurity?
+
+How can your strengths, values, and interest in cybersecurity support the security goals of various organizations?
