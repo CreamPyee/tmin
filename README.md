@@ -22,10 +22,11 @@ How can your strengths, values, and interest in cybersecurity support the securi
 Controls assessment checklist
 
 Yes No Control
+<h1>Yes or No</h1>
 <form action="/action_page.php">
   <input type="checkbox" id="yes1" name="yes1" value="yes">
   <label for="checkbox1"> Yes</label><br>
-  
+</form>
   
 Disaster recovery plans
 Password policies
