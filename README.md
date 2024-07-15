@@ -23,7 +23,7 @@ Controls assessment checklist
 
 Yes No Control
 <form action="/action_page.php">
-  <input type="checkbox" id="checkbox1" name="checkbox1" value="">
+  <input type="checkbox" id="yes1" name="yes1" value="yes">
   <label for="checkbox1"> Yes</label><br>
   
   
