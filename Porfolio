@@ -3,24 +3,27 @@
 
 <h1> Cybersecuirty Analyst </h1>
 
-<p>Stopping cyber attacks by taking percacitionary messsures to ensure the saefty of the web. By using different formats of code, I have utilized an effective way to help me in the workfore.</p>
+<p>Stopping cyber attacks on the internet is my job as a Cybersecuirty Analyst. While working on the job it is important to take percacitionary messsures to ensure the saefty of the web. By using different formats of code, softwares, and hardware, I have learned an effective way to help me in the workfore by identifying differnt types of attacks to an end user. Getting to the bottom of an issue and/or attack while using ethical paractices such as Playbooks are just one of the ways organizations keep their assets safe.</p>
 
+<h1>My Strengths</h1>
 
-<p>I have Identified the difffent type of cyber ceiruty attacks.</p>
+<ol type"1">
+  
+<li>Knowledge in Network Secuirty (Devloping)</li>
+<li>Familiar with Firewall protocols</li>
+<li>Knowledgable about Security Risks</li>
+<li>Remote connections</li>
+<li>Active Directory</li>
+<li>VPN</li>
+<li>Ticketing Systems</li>
 
+</ol>
 
-<p>I recommend getting to the botttom of the issue before going any further. Always be eithic about yourr decisions.</p>
+<h1>My Values</h1>
 
-As a Cybersecurity anaylyst, 
-What are your strengths (ones you currently have or plan to develop)?
-I have active experience in Troubleshooting computers, 
-
-What are your values?
-
-What interests you most about a career in cybersecurity?
+<p>The most valuble thing to me that I've learned in cybersecuirty keeping are organization safe by following FERPA laws and following ethical practices to keep SPII, assets, and the oranization as a whole safe. From exerpience to the education I've learned in this field, it amazed me how easy an attack can happen. So with the information I've learned about,this helped me gain interest me in cybersecurity is the network ascept. I love learning how things work. And learning the way the internet works really intregs me.</p>
 
 How can your strengths, values, and interest in cybersecurity support the security goals of various organizations?
-
 
 Controls assessment checklist
 
@@ -31,6 +34,7 @@ Yes No Control
   <label for="checkbox1"> Yes</label><br>
 </form>
 
+  <i class="fa-solid fa-box"></i>
   
 Disaster recovery plans
 Password policies
