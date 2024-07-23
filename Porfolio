@@ -95,5 +95,9 @@ This section is optional and can be used to provide a summary of recommendations
 the IT manager regarding which controls and/or compliance best practices Botium
 Toys needs to implement, based on the risk posed if not implemented in a timely
 manner.
+
+git fetch origin
+git checkout 1-security-checklist
+
 </body>
 </html>
